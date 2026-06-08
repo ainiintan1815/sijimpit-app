@@ -12,11 +12,6 @@ Aplikasi SiJimpit dirancang untuk mempermudah pencatatan dan pelaporan dana jimp
 - Transparasi keuangan
 - Kemudahan pembuatan laporan keuangan
 
-## Nama kelompok 
-
-- Iqbal Amri Sya'bana (24050974068) (ketua kelompok)
-- Aini Intan Saylendra (24050974063) (anggota)
-
 ## Berikut Langkah-langkah untuk menjalankan aplikasi SiJimpit dengan efisien :
 
 ### 1. Lakukan login terlebih dahulu (sebagai admin/warga). 
@@ -54,3 +49,11 @@ Jika memerlukan panduan penggunaan aplikasi, klik button “Panduan”, maka aka
 - [Common Disgester](https://drive.google.com/drive/folders/1-Fg3ian_AD6ArClLsAaPo3ZGkc1O6wLq?usp=drive_link)
 - [Common Collection](https://drive.google.com/drive/folders/1-Fg3ian_AD6ArClLsAaPo3ZGkc1O6wLq?usp=drive_link)
 - [Common Beanutils](https://drive.google.com/drive/folders/1-Fg3ian_AD6ArClLsAaPo3ZGkc1O6wLq?usp=drive_link)
+
+## Nama kelompok 
+
+- Iqbal Amri Sya'bana (24050974068) (ketua kelompok)
+- Aini Intan Saylendra (24050974063) (anggota)
+
+## My Job
+Full Stack
